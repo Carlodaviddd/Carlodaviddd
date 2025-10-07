@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! ![Duck Waving](https://github.com/user-attachments/assets/4bda2ff5-a650-42d9-87e2-54f3c2fba6e5)
 
-<!--
-**Carlodaviddd/Carlodaviddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Carlo, a Software Development Student at Bow Valley College.
 
-Here are some ideas to get you started:
+Passionate about front-end development and currently expanding my knowledge in modern frameworks like React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy collaborating with others and learning from every project I work on.
+
+**Fun Facts:**
+- I enjoy cooking and trying new recipes
+- Binge-watching anime and TV series
+- One Piece and Dragon Ball are my favorite anime
+- **Hobbies**: reading manga, cooking, learning new things
