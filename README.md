@@ -9,5 +9,5 @@ I enjoy collaborating with others and learning from every project I work on.
 **Fun Facts:**
 - I enjoy cooking and trying new recipes
 - Binge-watching anime and TV series
-- One Piece and Dragon Ball are my favorite anime
+- One Piece is my favorite anime
 - **Hobbies**: reading manga, cooking, learning new things
