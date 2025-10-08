@@ -2,7 +2,7 @@
 
 I'm Carlo, a Software Development Student at Bow Valley College.
 
-Passionate about front-end development and currently expanding my knowledge in modern frameworks like React.
+Passionate about **front-end development** and currently expanding my knowledge in modern frameworks like **React**.
 
 I enjoy collaborating with others and learning from every project I work on.
 
