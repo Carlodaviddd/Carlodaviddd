@@ -1,4 +1,4 @@
-# Hi there! ![Duck Waving](https://github.com/user-attachments/assets/4bda2ff5-a650-42d9-87e2-54f3c2fba6e5)
+# Hi there! ![Image](https://github.com/user-attachments/assets/ff0a46ba-8abb-4fce-82f1-8b9e1a22c7fe)
 
 I'm Carlo, a Software Development Student at Bow Valley College.
 
