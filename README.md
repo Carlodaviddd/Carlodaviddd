@@ -1,4 +1,4 @@
-# Hi there! ![Image](https://github.com/user-attachments/assets/ff0a46ba-8abb-4fce-82f1-8b9e1a22c7fe)
+# Hi there! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhydmp2cWViOHEzM2V2a2Y2cTZlZmhtdDVnc25mMDBqbm4zeDZ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3D96lKYdZi8DtTSfqr/giphy.gif" width="70">
 
 I'm Carlo, a Software Development Student at Bow Valley College.
 
